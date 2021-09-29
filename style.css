@@ -1,0 +1,19 @@
+body{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    user-select: none;
+    background-image: url(bg.jpg);
+}
+
+#text{
+    display: inline-flex;
+    margin: auto 10px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 22px;
+    /* color: white; */
+    background-color: white;
+}
